@@ -8,3 +8,6 @@ CREATE TABLE animals(
   neutered        BIT,
   weight_kg 	  DECIMAL
 );
+
+/* Add table */
+ALTER TABLE animals ADD species VARCHAR(100);
