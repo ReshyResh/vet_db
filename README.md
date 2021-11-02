@@ -1,7 +1,7 @@
-# curriculum-databases-projects-template
+# Vet Clinic - Microverse DB exercise
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+# Diagram
+![drawSQL-export-2021-11-02_16 17](https://user-images.githubusercontent.com/85108160/139876107-22e65d33-ea60-4e34-b36c-9b8e4a738945.png)
 
 
 ## Getting Started
@@ -28,13 +28,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
